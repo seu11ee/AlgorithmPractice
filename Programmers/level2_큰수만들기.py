@@ -10,20 +10,19 @@
 
 def recursion(numberStr,jari): #numberStr의 숫자를 jari의 자릿수로 만들
     leng = len(numberStr)
-    if(leng==jari): #만들려는 자릿수랑 지금 수의 자릿수 같으면 얼른 리턴 시켜줌
+    if (jari==leng):
         return numberStr
-    if (leng==1):
+    if (jari==1): #1자리까지 오면 리턴
         #print(#umberStr)
-        return numberStr[0]
+        return max(numberStr)
     m = max(numberStr[:leng-jari+1])
     index = numberStr.index(m)
-    if(index==leng-1):
-        #print(0)
-        return numberStr[index]
+    if index==leng-jari:
+        return numberStr
     #print(2)
     return str(m) + recursion(numberStr[index+1:],jari-1)
 def solution(number, k):
     length = len(number)
     p = length-k
     return recursion(number,p)
-print(solution("1231234",3))
+print(solution("94812",3))
