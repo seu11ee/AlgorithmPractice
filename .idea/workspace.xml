@@ -1,8 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="dfc6dbdc-f1bf-4558-a62e-ea9008e8d196" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Programmers/level2_큰수만들기.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/level2_큰수만들기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaekJoon/1026.py" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJoon/1026_보물.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaekJoon/10816.py" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJoon/10816_숫자카드2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaekJoon/10867.py" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJoon/10867_중복빼고정렬하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaekJoon/1697.py" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJoon/1697_숨바꼭질.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/String_문자열비교.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/String_문자열비교.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/String_회문.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/String_회문.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +55,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.String_회문">
-    <configuration name="1026" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.1260_DFS와 BFS">
+    <configuration name="1026_보물" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="YeSeulLee" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -44,7 +68,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BaekJoon/1026.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BaekJoon/1026_보물.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -53,7 +77,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="10816" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="10816_숫자카드2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="YeSeulLee" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,7 +89,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BaekJoon/10816.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BaekJoon/10816_숫자카드2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1697" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1260_DFS와 BFS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="YeSeulLee" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,7 +110,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BaekJoon/1697.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BaekJoon/1260_DFS와 BFS.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="List2_부분집합" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1697_숨바꼭질" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="YeSeulLee" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,11 +127,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BaekJoon" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/List2_부분집합.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BaekJoon/1697_숨바꼭질.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,11 +205,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1260_DFS와 BFS" />
+        <item itemvalue="Python.1697_숨바꼭질" />
         <item itemvalue="Python.String_회문" />
-        <item itemvalue="Python.String_문자열비교" />
-        <item itemvalue="Python.1697" />
-        <item itemvalue="Python.1026" />
-        <item itemvalue="Python.10816" />
+        <item itemvalue="Python.1026_보물" />
+        <item itemvalue="Python.10816_숫자카드2" />
       </list>
     </recent_temporary>
   </component>
@@ -202,39 +226,51 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1419" height="213" key="GridCell.Tab.0.bottom" timestamp="1590087626170">
+    <state width="1419" height="200" key="GridCell.Tab.0.bottom" timestamp="1590141354831">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="213" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590087626170" />
-    <state width="1419" height="213" key="GridCell.Tab.0.center" timestamp="1590087626169">
+    <state width="1419" height="200" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590141354831" />
+    <state width="1419" height="200" key="GridCell.Tab.0.center" timestamp="1590141354830">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="213" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1590087626169" />
-    <state width="1419" height="213" key="GridCell.Tab.0.left" timestamp="1590087626168">
+    <state width="1419" height="200" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1590141354830" />
+    <state width="1419" height="200" key="GridCell.Tab.0.left" timestamp="1590141354829">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="213" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1590087626168" />
-    <state width="1419" height="213" key="GridCell.Tab.0.right" timestamp="1590087626170">
+    <state width="1419" height="200" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1590141354829" />
+    <state width="1419" height="200" key="GridCell.Tab.0.right" timestamp="1590141354831">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="213" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1590087626170" />
-    <state width="1419" height="304" key="GridCell.Tab.1.bottom" timestamp="1589871042317">
+    <state width="1419" height="200" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1590141354831" />
+    <state width="1419" height="304" key="GridCell.Tab.1.bottom" timestamp="1590141137733">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589871042317" />
-    <state width="1419" height="304" key="GridCell.Tab.1.center" timestamp="1589871042315">
+    <state width="1419" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590141137733" />
+    <state width="1419" height="304" key="GridCell.Tab.1.center" timestamp="1590141137730">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1589871042315" />
-    <state width="1419" height="304" key="GridCell.Tab.1.left" timestamp="1589871042314">
+    <state width="1419" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1590141137730" />
+    <state width="1419" height="304" key="GridCell.Tab.1.left" timestamp="1590141137729">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1589871042314" />
-    <state width="1419" height="304" key="GridCell.Tab.1.right" timestamp="1589871042316">
+    <state width="1419" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1590141137729" />
+    <state width="1419" height="304" key="GridCell.Tab.1.right" timestamp="1590141137732">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1589871042316" />
+    <state width="1419" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1590141137732" />
     <state x="421" y="39" width="598" height="822" key="find.popup" timestamp="1589720084224">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

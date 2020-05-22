@@ -17,23 +17,30 @@ from sys import stdin
 from collections import deque #시간절  list.pop(0) 은 시간복잡도가 O(N) 이라 이렇게 구현하면 시간적으로 매우 비효율적인 코드가 만들어지게 됩니다.
 
 N,K = map(int,stdin.readline().split())
-i = 0
 queue = deque()
-queue.append((i,N))
+visited = [False]*100001
+queue.append(N)
+count=0
+flag = False
 while(queue):
+    for _ in range(len(queue)):
+        now = queue.popleft()
+        if not(visited[now]): #처음 방문 노드
+            visited[now]=True
+            if (now==K):
+                print(count)
+                flag = True
+                break
+            if(0<=now-1):
+                queue.append(now-1)
+            if(now+1<=100000):
+                queue.append(now+1)
+            if(now*2<=100000):
+                queue.append(now*2)
 
-    now = queue.popleft()
-    i = now[0]
-    if (now[1]==K):
-        print(i)
+    if flag:
         break
-    newN = now[1]
-    if(0<=newN*2<=100000):
-        queue.append((i + 1, newN * 2))
-    if(0<=newN+1<=100000):
-        queue.append((i + 1, newN + 1))
-    if(0<=newN-1<=100000):
-        queue.append((i+1,newN-1))
+    count+=1
 
 
 '''
