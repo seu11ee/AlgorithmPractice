@@ -37,7 +37,11 @@ for t in range(1,T+1):
     possible = 0
     maze = []
     stack = []
-    dir = [[0]*N]*N
+    dir = []
+    for n1 in range(N):
+        dir.append([0])
+        for n2 in range(N-1):
+            dir[n1].append(0)
 
     for _ in range(N):
         maze.append(list(map(int,list(input()))))
@@ -50,7 +54,7 @@ for t in range(1,T+1):
     stack.append(startIndex)
     now = startIndex
     count=0
-    while(True):
+    while(stack):
         print(stack)
         x = now[1]
         y = now[0]
@@ -93,7 +97,7 @@ for t in range(1,T+1):
                     stack.append(now)
             else:
                 continue
-        else:
+        else: #모든 방향을 다 돌았으면 -> 뒤로 간다.
             stack.pop()
             now = stack.pop()
 
