@@ -13,6 +13,7 @@ input 5 17 output 4'''
 #BFS
 #BFS는 큐이용!
 
+
 from sys import stdin
 from collections import deque #시간절  list.pop(0) 은 시간복잡도가 O(N) 이라 이렇게 구현하면 시간적으로 매우 비효율적인 코드가 만들어지게 됩니다.
 

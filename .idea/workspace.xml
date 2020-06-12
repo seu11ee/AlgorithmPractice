@@ -16,12 +16,19 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dfc6dbdc-f1bf-4558-a62e-ea9008e8d196" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/Stack2_미로.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/Stack2_미로.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaekJoon/10972_다음순열.py" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJoon/10972_다음순열.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaekJoon/1697_숨바꼭질.py" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJoon/1697_숨바꼭질.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/Stack2_토너먼트.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/Stack2_토너먼트.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +57,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.Stack2_토너먼트">
+  <component name="RunManager" selected="Python.10972_다음순열">
     <configuration name="10819_차이를최대로" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="YeSeulLee" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.10972_다음순열" />
         <item itemvalue="Python.Stack2_토너먼트" />
         <item itemvalue="Python.15652_N과M" />
         <item itemvalue="Python.9095_1,2,3더하기" />
         <item itemvalue="Python.10819_차이를최대로" />
-        <item itemvalue="Python.10972_다음순열" />
       </list>
     </recent_temporary>
   </component>
@@ -192,42 +199,42 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1419" height="321" key="GridCell.Tab.0.bottom" timestamp="1591339223044">
+    <state width="1419" height="321" key="GridCell.Tab.0.bottom" timestamp="1591951908491">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="321" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1591339223044" />
-    <state width="1419" height="321" key="GridCell.Tab.0.center" timestamp="1591339223043">
+    <state width="1419" height="321" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1591951908491" />
+    <state width="1419" height="321" key="GridCell.Tab.0.center" timestamp="1591951908490">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="321" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1591339223043" />
-    <state width="1419" height="321" key="GridCell.Tab.0.left" timestamp="1591339223042">
+    <state width="1419" height="321" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1591951908490" />
+    <state width="1419" height="321" key="GridCell.Tab.0.left" timestamp="1591951908489">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="321" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1591339223042" />
-    <state width="1419" height="321" key="GridCell.Tab.0.right" timestamp="1591339223043">
+    <state width="1419" height="321" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1591951908489" />
+    <state width="1419" height="321" key="GridCell.Tab.0.right" timestamp="1591951908491">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="321" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1591339223043" />
-    <state width="1419" height="2" key="GridCell.Tab.1.bottom" timestamp="1591264464961">
+    <state width="1419" height="321" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1591951908491" />
+    <state width="1419" height="282" key="GridCell.Tab.1.bottom" timestamp="1591421579101">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="2" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1591264464961" />
-    <state width="1419" height="2" key="GridCell.Tab.1.center" timestamp="1591264464956">
+    <state width="1419" height="282" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1591421579101" />
+    <state width="1419" height="282" key="GridCell.Tab.1.center" timestamp="1591421579099">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="2" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1591264464956" />
-    <state width="1419" height="2" key="GridCell.Tab.1.left" timestamp="1591264464954">
+    <state width="1419" height="282" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1591421579099" />
+    <state width="1419" height="282" key="GridCell.Tab.1.left" timestamp="1591421579099">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="2" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1591264464954" />
-    <state width="1419" height="2" key="GridCell.Tab.1.right" timestamp="1591264464958">
+    <state width="1419" height="282" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1591421579099" />
+    <state width="1419" height="282" key="GridCell.Tab.1.right" timestamp="1591421579100">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="2" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1591264464958" />
-    <state x="421" y="39" width="598" height="822" key="find.popup" timestamp="1590679078289">
+    <state width="1419" height="282" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1591421579100" />
+    <state x="421" y="39" width="598" height="822" key="find.popup" timestamp="1591863249360">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="421" y="39" width="598" height="822" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1590679078289" />
+    <state x="421" y="39" width="598" height="822" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1591863249360" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1591205286280">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
