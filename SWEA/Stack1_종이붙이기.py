@@ -15,16 +15,23 @@
 
 각 줄마다 "#T" (T는 테스트 케이스 번호)를 출력한 뒤, 답을 출력한다.'''
 
-#어렵다..ㅁㄹㅁㄹ
-
-from itertools import combinations
-T = int(input())
-def howmany(n):
-    if n % 2 == 0:
-        combinations(range(4))
+#다이나믹 프로그래밍으로 풀기 n-1 = n , n-2 * 2 = n
 
 
-for t in range(1,t+1):
-    N = int(input())
+def solution(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 3
+    else:
+        return solution(n-1) + solution(n-2)*2
 
+def main():
+    T = int(input())
+    for t in range(1,T+1):
+        N = int(input())//10
+        answer = solution(N)
+        print("#%d %d" % (t, answer))
+
+main()
 
