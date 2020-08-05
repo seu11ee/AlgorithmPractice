@@ -18,7 +18,6 @@ else:
             graph[n2]=[n1]
         else:
             graph[n2].append(n1)
-    #cnt += graph.count([-1])
 
     #BFS탐색시작
     queue = collections.deque()
