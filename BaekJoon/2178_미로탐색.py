@@ -20,19 +20,26 @@
 from sys import stdin
 from collections import deque
 N,M=map(int,stdin.readline().split())
+maze = [[-1] for _ in range(N+1)]
+print(maze)
+
+#print(maze)
+for n in range(1,N+1):
+    input_ = stdin.readline().rstrip("\n") #스트링을 리스트로 만들 때 줄바꿈 문자도 포함되므로 없애야함
+    maze[n].extend(list(map(int,list(input_))))
+for item in maze:
+    print(item)
+print(maze[1][1])
+print(maze[N][M])
+
+
 dest = (N,M)
 start = (1,1)
 count = 1
 queue = deque()
 queue.append(start)
 now = queue.popleft()
-while(now[0]>0) and now[1]>0):
-    if now == dest:
-        
-        break
 
-    next = now[]
-    queue.append()
 
 visited=[]
 
