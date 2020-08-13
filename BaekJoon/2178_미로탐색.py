@@ -20,26 +20,47 @@
 from sys import stdin
 from collections import deque
 N,M=map(int,stdin.readline().split())
-maze = [[-1] for _ in range(N+1)]
-print(maze)
+maze = [[0 for _ in range(M+2)] for _ in range(N+2)]
+visited = [[0 for _ in range(M+2)] for _ in range(N+2)]
+for i in range(N+1):
+    visited[i][0] = True
+    visited[i][-1] = True
+for i in range(M+1):
+    visited[0][i] = True
+    visited[-1][i] = True
 
-#print(maze)
 for n in range(1,N+1):
     input_ = stdin.readline().rstrip("\n") #스트링을 리스트로 만들 때 줄바꿈 문자도 포함되므로 없애야함
-    maze[n].extend(list(map(int,list(input_))))
-for item in maze:
-    print(item)
-print(maze[1][1])
-print(maze[N][M])
+    maze[n][1:M+1] = list(map(int,list(input_)))
 
+q = deque()
+q.append((1,1))
 
-dest = (N,M)
-start = (1,1)
-count = 1
-queue = deque()
-queue.append(start)
-now = queue.popleft()
+while(q):
+    x,y = q.popleft()
 
-
-visited=[]
+    
+    if (x,y) == (N, M):
+        print(visited[x][y]+1)
+        break
+    #왼
+    if maze[x-1][y]==1:
+        if visited[x-1][y]==0:
+            q.append((x-1,y))
+            visited[x-1][y] = visited[x][y] + 1
+    #아래
+    if maze[x][y+1]==1:
+        if not visited[x][y+1]:
+            q.append((x,y+1))
+            visited[x][y+1] = visited[x][y] + 1
+    #오
+    if maze[x+1][y]==1:
+        if not visited[x+1][y]:
+            q.append((x+1,y))
+            visited[x + 1][y] = visited[x][y] + 1
+    #위
+    if maze[x][y-1]==1:
+        if not visited[x][y-1]:
+            q.append((x,y-1))
+            visited[x][y - 1] =  visited[x][y] + 1
 
