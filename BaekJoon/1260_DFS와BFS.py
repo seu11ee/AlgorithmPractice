@@ -30,7 +30,6 @@ def dfs(v):
             visited[now] = True
             printStr += str(now) + " "
             length = len(graph[now])
-            #단독그래프인지 검사해주어야하암
             if graph[now] != [-1]:
 
                 graph[now].sort(reverse = True)
@@ -57,3 +56,4 @@ def bfs(v):
                     queue.append(neighbor)
     return printStr
 print(dfs(V)+"\n"+bfs(V))
+
