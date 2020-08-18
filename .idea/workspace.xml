@@ -53,9 +53,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
   </component>
-  <component name="RunManager" selected="Python.Queue_피자굽기">
-    <configuration name="10972_다음순열" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.11726_2xn타일링">
+    <configuration name="10814_나이순정렬" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="YeSeulLee" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,7 +68,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BaekJoon/10972_다음순열.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BaekJoon/10814_나이순정렬.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,7 +77,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="15652_N과M" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11652_카드" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="YeSeulLee" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,7 +89,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BaekJoon/15652_N과M.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BaekJoon/11652_카드.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Queue_회전" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11726_2xn타일링" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="YeSeulLee" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,11 +106,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BaekJoon" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/Queue_회전.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BaekJoon/11726_2xn타일링.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Queue_피자굽기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="level2_타겟넘버" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="YeSeulLee" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,11 +127,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/Queue_피자굽기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/level2_타겟넘버.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Stack2_토너먼트" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="level2_H-Index" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="YeSeulLee" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,11 +148,74 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/Stack2_토너먼트.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/level2_H-Index.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="level2_다리를지나는트럭" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="YeSeulLee" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/level2_다리를지나는트럭.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="level2_주식가격" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="YeSeulLee" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/level2_주식가격.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="level2_프린터" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="YeSeulLee" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/level2_프린터.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,11 +226,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Queue_피자굽기" />
-        <item itemvalue="Python.Queue_회전" />
-        <item itemvalue="Python.10972_다음순열" />
-        <item itemvalue="Python.Stack2_토너먼트" />
-        <item itemvalue="Python.15652_N과M" />
+        <item itemvalue="Python.11726_2xn타일링" />
+        <item itemvalue="Python.level2_타겟넘버" />
+        <item itemvalue="Python.level2_H-Index" />
+        <item itemvalue="Python.11652_카드" />
+        <item itemvalue="Python.10814_나이순정렬" />
       </list>
     </recent_temporary>
   </component>
@@ -196,45 +260,74 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1419" height="321" key="GridCell.Tab.0.bottom" timestamp="1592506284599">
+    <state x="466" y="312" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1596536282506">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="321" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1592506284599" />
-    <state width="1419" height="321" key="GridCell.Tab.0.center" timestamp="1592506284597">
+    <state x="466" y="312" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1440.900@0.0.1440.900" timestamp="1596536282505" />
+    <state width="1419" height="447" key="GridCell.Tab.0.bottom" timestamp="1597755617585">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="321" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1592506284597" />
-    <state width="1419" height="321" key="GridCell.Tab.0.left" timestamp="1592506284597">
+    <state width="1419" height="447" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-455.1920.1080@0.0.1440.900" timestamp="1597755617585" />
+    <state width="1899" height="447" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-455.1920.1080@1440.-455.1920.1080" timestamp="1597234933420" />
+    <state width="1899" height="363" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-64.1920.1080@1440.-64.1920.1080" timestamp="1596714439833" />
+    <state width="1419" height="447" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1597494962525" />
+    <state width="1899" height="363" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-455.1920.1080@1440.-455.1920.1080" timestamp="1596716799388" />
+    <state width="1899" height="363" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-64.1920.1080@1440.-64.1920.1080" timestamp="1596715045699" />
+    <state width="1419" height="447" key="GridCell.Tab.0.center" timestamp="1597755617583">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="321" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1592506284597" />
-    <state width="1419" height="321" key="GridCell.Tab.0.right" timestamp="1592506284598">
+    <state width="1419" height="447" key="GridCell.Tab.0.center/0.0.1440.900/1440.-455.1920.1080@0.0.1440.900" timestamp="1597755617583" />
+    <state width="1899" height="447" key="GridCell.Tab.0.center/0.0.1440.900/1440.-455.1920.1080@1440.-455.1920.1080" timestamp="1597234933417" />
+    <state width="1899" height="363" key="GridCell.Tab.0.center/0.0.1440.900/1440.-64.1920.1080@1440.-64.1920.1080" timestamp="1596714439830" />
+    <state width="1419" height="447" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1597494962524" />
+    <state width="1899" height="363" key="GridCell.Tab.0.center/0.23.1440.877/1440.-455.1920.1080@1440.-455.1920.1080" timestamp="1596716799385" />
+    <state width="1899" height="363" key="GridCell.Tab.0.center/0.23.1440.877/1440.-64.1920.1080@1440.-64.1920.1080" timestamp="1596715045696" />
+    <state width="1419" height="447" key="GridCell.Tab.0.left" timestamp="1597755617582">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="321" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1592506284598" />
-    <state width="1419" height="282" key="GridCell.Tab.1.bottom" timestamp="1591421579101">
+    <state width="1419" height="447" key="GridCell.Tab.0.left/0.0.1440.900/1440.-455.1920.1080@0.0.1440.900" timestamp="1597755617582" />
+    <state width="1899" height="447" key="GridCell.Tab.0.left/0.0.1440.900/1440.-455.1920.1080@1440.-455.1920.1080" timestamp="1597234933416" />
+    <state width="1899" height="363" key="GridCell.Tab.0.left/0.0.1440.900/1440.-64.1920.1080@1440.-64.1920.1080" timestamp="1596714439829" />
+    <state width="1419" height="447" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1597494962523" />
+    <state width="1899" height="363" key="GridCell.Tab.0.left/0.23.1440.877/1440.-455.1920.1080@1440.-455.1920.1080" timestamp="1596716799384" />
+    <state width="1899" height="363" key="GridCell.Tab.0.left/0.23.1440.877/1440.-64.1920.1080@1440.-64.1920.1080" timestamp="1596715045695" />
+    <state width="1419" height="447" key="GridCell.Tab.0.right" timestamp="1597755617584">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="282" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1591421579101" />
-    <state width="1419" height="282" key="GridCell.Tab.1.center" timestamp="1591421579099">
+    <state width="1419" height="447" key="GridCell.Tab.0.right/0.0.1440.900/1440.-455.1920.1080@0.0.1440.900" timestamp="1597755617584" />
+    <state width="1899" height="447" key="GridCell.Tab.0.right/0.0.1440.900/1440.-455.1920.1080@1440.-455.1920.1080" timestamp="1597234933419" />
+    <state width="1899" height="363" key="GridCell.Tab.0.right/0.0.1440.900/1440.-64.1920.1080@1440.-64.1920.1080" timestamp="1596714439832" />
+    <state width="1419" height="447" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1597494962524" />
+    <state width="1899" height="363" key="GridCell.Tab.0.right/0.23.1440.877/1440.-455.1920.1080@1440.-455.1920.1080" timestamp="1596716799386" />
+    <state width="1899" height="363" key="GridCell.Tab.0.right/0.23.1440.877/1440.-64.1920.1080@1440.-64.1920.1080" timestamp="1596715045698" />
+    <state width="1899" height="349" key="GridCell.Tab.1.bottom" timestamp="1597135805890">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="282" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1591421579099" />
-    <state width="1419" height="282" key="GridCell.Tab.1.left" timestamp="1591421579099">
+    <state width="1899" height="349" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.-455.1920.1080@1440.-455.1920.1080" timestamp="1596960937752" />
+    <state width="1899" height="349" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1597135805890" />
+    <state width="1899" height="349" key="GridCell.Tab.1.center" timestamp="1597135805889">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="282" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1591421579099" />
-    <state width="1419" height="282" key="GridCell.Tab.1.right" timestamp="1591421579100">
+    <state width="1899" height="349" key="GridCell.Tab.1.center/0.0.1440.900/1440.-455.1920.1080@1440.-455.1920.1080" timestamp="1596960937750" />
+    <state width="1899" height="349" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1597135805889" />
+    <state width="1899" height="349" key="GridCell.Tab.1.left" timestamp="1597135805888">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="282" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1591421579100" />
+    <state width="1899" height="349" key="GridCell.Tab.1.left/0.0.1440.900/1440.-455.1920.1080@1440.-455.1920.1080" timestamp="1596960937749" />
+    <state width="1899" height="349" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1597135805888" />
+    <state width="1899" height="349" key="GridCell.Tab.1.right" timestamp="1597135805889">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1899" height="349" key="GridCell.Tab.1.right/0.0.1440.900/1440.-455.1920.1080@1440.-455.1920.1080" timestamp="1596960937751" />
+    <state width="1899" height="349" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1597135805889" />
     <state x="421" y="39" width="598" height="822" key="find.popup" timestamp="1591863249360">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="421" y="39" width="598" height="822" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1591863249360" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1592501671470">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="1953" y="-220" width="894" height="812" key="search.everywhere.popup" timestamp="1596962633320">
+      <screen x="1440" y="-455" width="1920" height="1080" />
     </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1592501671470" />
+    <state x="1953" y="-220" width="894" height="812" key="search.everywhere.popup/0.0.1440.900/1440.-455.1920.1080@1440.-455.1920.1080" timestamp="1596962633320" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1596032385063" />
   </component>
 </project>
