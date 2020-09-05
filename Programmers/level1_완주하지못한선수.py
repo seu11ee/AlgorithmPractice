@@ -6,3 +6,4 @@ def solution(participant, completion):
     answerSet = all - comple
     answer = list(answerSet).pop()
     return answer
+
