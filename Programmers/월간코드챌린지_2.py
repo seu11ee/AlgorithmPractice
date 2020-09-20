@@ -8,8 +8,9 @@ def solution(n):
     while(True):
         if breakPoint >= n*(n+1)//2:
             break
+        a = (cnt-1)*2
         for i in range(num):
-            temp = temp+i*cnt
+            temp = temp+i+a
             answer.append(temp)
             breakPoint += 1
         for i in range(num-1):
@@ -21,11 +22,11 @@ def solution(n):
             temp = temp - i
             answer.append(temp)
             breakPoint += 1
-        num = num - 3
-        temp = temp +2*cnt
-        cnt += 1
 
-    trueAnswer = [0 for _ in range(n*(n+1)//2)]
+        num = num - 3
+        cnt += 1
+    print(answer)
+    trueAnswer = [0 for _ in range(len(answer))]
     i = 1
 
     for index in answer:
@@ -33,3 +34,7 @@ def solution(n):
         i = i+1
 
     return trueAnswer
+print(solution(4))
+print(solution(5))
+print(solution(6))
+print(solution(7))
