@@ -1,3 +1,9 @@
-# YeSeulLee
+## 스리 알고리즘 방🚪
 
-여러분 큰 수 만들기 나 도와조..
+### Python 문법
+---
+### BOJ
+---
+### Programmers
+---
+### SWEA
