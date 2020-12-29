@@ -10,21 +10,25 @@ X가 2로 나누어 떨어지면, 2로 나눈다.
 
 출력
 첫째 줄에 연산을 하는 횟수의 최솟값을 출력한다.'''
-#런타임에러남 ㅁㄹ겠. 재귀함수호출 최대값 초과
+#Top-down 런타임에러남 ㅁㄹ겠. 재귀함수호출 최대값 초과
+#Bottom-up으로
 import sys
 N = int(sys.stdin.readline())
-def solve(n):
 
-    #print(count,n)
-    if n==1:
+def solve(n):
+    if n == 1:
         return 0
-    else:
-        a = [(solve(n-1)+1)]
-        if n%2==0:
-            a.append(solve(n//2)+1)
-        if n%3==0:
-            a.append(solve(n//3)+1)
-        return min(a)
+    dp = [0 for _ in range(N + 1)]
+    dp[1] = 0
+    for i in range(2,n+1):
+        dp[i] = dp[i-1]+1
+        if i%2==0 and dp[i]>dp[i//2]+1:
+            dp[i] = dp[i//2]+1
+        if i%3==0 and dp[i]>dp[i//3]+1:
+            dp[i] = dp[i//3]+1
+    return dp[n]
+
 print(solve(N))
+
 
 
