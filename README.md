@@ -1,7 +1,7 @@
 ## 스리 알고리즘 방🚪
 
 ### Python 문법
-[🐍](./Python)
+[🐍](https://github.com/seu11ee/AlgorithmPractice/blob/master/Python/Python%20note.md)
 ### BOJ
 |Date|Title|
 |:---|:---|
