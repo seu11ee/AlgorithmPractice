@@ -26,7 +26,6 @@
   <component name="ChangeListManager">
     <list default="true" id="dfc6dbdc-f1bf-4558-a62e-ea9008e8d196" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmers/level1_완주하지못한선수.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/level1_완주하지못한선수.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,22 +53,28 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/BaekJoon" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
   </component>
-  <component name="RunManager" selected="Python.2606_바이러스">
-    <configuration name="1654_랜선자르기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/BaekJoon" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.문자열압축">
+    <configuration name="문자열압축" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="YeSeulLee" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BaekJoon" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="$USER_HOME$/Documents/SEUL/coding/HappyAlgo/YeSeulLee/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BaekJoon/1654_랜선자르기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/문자열압축.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,27 +167,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="level2_주식가격" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="YeSeulLee" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/level2_주식가격.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="level2_프린터" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="YeSeulLee" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -206,14 +190,15 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.문자열압축" />
         <item itemvalue="Python.2606_바이러스" />
         <item itemvalue="Python.2206_벽부수고이동하기" />
         <item itemvalue="Python.7576_토마토" />
         <item itemvalue="Python.2751_수정렬하기2" />
-        <item itemvalue="Python.1654_랜선자르기" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -240,82 +225,21 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="466" y="312" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1596536282506">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="875" height="301" key="GridCell.Tab.0.bottom" timestamp="1610975295002">
+      <screen x="0" y="25" width="1792" height="1095" />
     </state>
-    <state x="466" y="312" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1440.900@0.0.1440.900" timestamp="1596536282505" />
-    <state width="1419" height="405" key="GridCell.Tab.0.bottom" timestamp="1599217505869">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="875" height="301" key="GridCell.Tab.0.bottom/0.25.1792.1095@0.25.1792.1095" timestamp="1610975295002" />
+    <state width="875" height="301" key="GridCell.Tab.0.center" timestamp="1610975295002">
+      <screen x="0" y="25" width="1792" height="1095" />
     </state>
-    <state width="1419" height="447" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-455.1920.1080@0.0.1440.900" timestamp="1597758219147" />
-    <state width="1899" height="446" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-455.1920.1080@1440.-455.1920.1080" timestamp="1598280598013" />
-    <state width="1899" height="363" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-64.1920.1080@1440.-64.1920.1080" timestamp="1596714439833" />
-    <state width="1419" height="405" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1599217505869" />
-    <state width="1899" height="550" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-455.1920.1080@1440.-455.1920.1080" timestamp="1597842409637" />
-    <state width="1899" height="363" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-64.1920.1080@1440.-64.1920.1080" timestamp="1596715045699" />
-    <state width="1419" height="306" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1598971960236" />
-    <state width="1419" height="405" key="GridCell.Tab.0.center" timestamp="1599217505867">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="875" height="301" key="GridCell.Tab.0.center/0.25.1792.1095@0.25.1792.1095" timestamp="1610975295002" />
+    <state width="875" height="301" key="GridCell.Tab.0.left" timestamp="1610975295002">
+      <screen x="0" y="25" width="1792" height="1095" />
     </state>
-    <state width="1419" height="447" key="GridCell.Tab.0.center/0.0.1440.900/1440.-455.1920.1080@0.0.1440.900" timestamp="1597758219141" />
-    <state width="1899" height="446" key="GridCell.Tab.0.center/0.0.1440.900/1440.-455.1920.1080@1440.-455.1920.1080" timestamp="1598280598010" />
-    <state width="1899" height="363" key="GridCell.Tab.0.center/0.0.1440.900/1440.-64.1920.1080@1440.-64.1920.1080" timestamp="1596714439830" />
-    <state width="1419" height="405" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1599217505867" />
-    <state width="1899" height="550" key="GridCell.Tab.0.center/0.23.1440.877/1440.-455.1920.1080@1440.-455.1920.1080" timestamp="1597842409634" />
-    <state width="1899" height="363" key="GridCell.Tab.0.center/0.23.1440.877/1440.-64.1920.1080@1440.-64.1920.1080" timestamp="1596715045696" />
-    <state width="1419" height="306" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1598971960234" />
-    <state width="1419" height="405" key="GridCell.Tab.0.left" timestamp="1599217505866">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="875" height="301" key="GridCell.Tab.0.left/0.25.1792.1095@0.25.1792.1095" timestamp="1610975295002" />
+    <state width="875" height="301" key="GridCell.Tab.0.right" timestamp="1610975295002">
+      <screen x="0" y="25" width="1792" height="1095" />
     </state>
-    <state width="1419" height="447" key="GridCell.Tab.0.left/0.0.1440.900/1440.-455.1920.1080@0.0.1440.900" timestamp="1597758219140" />
-    <state width="1899" height="446" key="GridCell.Tab.0.left/0.0.1440.900/1440.-455.1920.1080@1440.-455.1920.1080" timestamp="1598280598008" />
-    <state width="1899" height="363" key="GridCell.Tab.0.left/0.0.1440.900/1440.-64.1920.1080@1440.-64.1920.1080" timestamp="1596714439829" />
-    <state width="1419" height="405" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1599217505866" />
-    <state width="1899" height="550" key="GridCell.Tab.0.left/0.23.1440.877/1440.-455.1920.1080@1440.-455.1920.1080" timestamp="1597842409633" />
-    <state width="1899" height="363" key="GridCell.Tab.0.left/0.23.1440.877/1440.-64.1920.1080@1440.-64.1920.1080" timestamp="1596715045695" />
-    <state width="1419" height="306" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1598971960232" />
-    <state width="1419" height="405" key="GridCell.Tab.0.right" timestamp="1599217505868">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1419" height="447" key="GridCell.Tab.0.right/0.0.1440.900/1440.-455.1920.1080@0.0.1440.900" timestamp="1597758219146" />
-    <state width="1899" height="446" key="GridCell.Tab.0.right/0.0.1440.900/1440.-455.1920.1080@1440.-455.1920.1080" timestamp="1598280598011" />
-    <state width="1899" height="363" key="GridCell.Tab.0.right/0.0.1440.900/1440.-64.1920.1080@1440.-64.1920.1080" timestamp="1596714439832" />
-    <state width="1419" height="405" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1599217505868" />
-    <state width="1899" height="550" key="GridCell.Tab.0.right/0.23.1440.877/1440.-455.1920.1080@1440.-455.1920.1080" timestamp="1597842409635" />
-    <state width="1899" height="363" key="GridCell.Tab.0.right/0.23.1440.877/1440.-64.1920.1080@1440.-64.1920.1080" timestamp="1596715045698" />
-    <state width="1419" height="306" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1598971960235" />
-    <state width="1899" height="349" key="GridCell.Tab.1.bottom" timestamp="1597135805890">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1899" height="349" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.-455.1920.1080@1440.-455.1920.1080" timestamp="1596960937752" />
-    <state width="1899" height="349" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1597135805890" />
-    <state width="1899" height="349" key="GridCell.Tab.1.center" timestamp="1597135805889">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1899" height="349" key="GridCell.Tab.1.center/0.0.1440.900/1440.-455.1920.1080@1440.-455.1920.1080" timestamp="1596960937750" />
-    <state width="1899" height="349" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1597135805889" />
-    <state width="1899" height="349" key="GridCell.Tab.1.left" timestamp="1597135805888">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1899" height="349" key="GridCell.Tab.1.left/0.0.1440.900/1440.-455.1920.1080@1440.-455.1920.1080" timestamp="1596960937749" />
-    <state width="1899" height="349" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1597135805888" />
-    <state width="1899" height="349" key="GridCell.Tab.1.right" timestamp="1597135805889">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1899" height="349" key="GridCell.Tab.1.right/0.0.1440.900/1440.-455.1920.1080@1440.-455.1920.1080" timestamp="1596960937751" />
-    <state width="1899" height="349" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1597135805889" />
-    <state x="508" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598362644968">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="508" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1598362644968" />
-    <state x="421" y="39" width="598" height="822" key="find.popup" timestamp="1599055004618">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="421" y="39" width="598" height="822" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1599055004618" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1599056240931">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="1953" y="-220" width="894" height="812" key="search.everywhere.popup/0.0.1440.900/1440.-455.1920.1080@1440.-455.1920.1080" timestamp="1596962633320" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1599056240931" />
+    <state width="875" height="301" key="GridCell.Tab.0.right/0.25.1792.1095@0.25.1792.1095" timestamp="1610975295002" />
   </component>
 </project>
