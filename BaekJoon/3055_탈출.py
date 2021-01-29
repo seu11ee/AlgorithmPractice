@@ -8,6 +8,7 @@ water = [[0] for _ in range(R*C)]
 dx = (1,0,-1,0)
 dy = (0,-1,0,1)
 queue = deque()
+water = deque()
 temp = []
 for r in range(R):
     cList = list(stdin.readline().rstrip())
