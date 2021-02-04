@@ -25,8 +25,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dfc6dbdc-f1bf-4558-a62e-ea9008e8d196" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/BaekJoon/2579_계단오르기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJoon/3055_탈출.py" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJoon/3055_탈출.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +62,7 @@
       <recent name="$PROJECT_DIR$/BaekJoon" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.3055_탈출">
+  <component name="RunManager" selected="Python.2579_계단오르기">
     <configuration name="문자열압축" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="YeSeulLee" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,6 +97,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BaekJoon/2206_벽부수고이동하기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2579_계단오르기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="YeSeulLee" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/Documents/SEUL/coding/HappyAlgo/YeSeulLee/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BaekJoon" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BaekJoon/2579_계단오르기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,34 +168,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7576_토마토" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="YeSeulLee" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BaekJoon" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BaekJoon/7576_토마토.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2579_계단오르기" />
         <item itemvalue="Python.3055_탈출" />
         <item itemvalue="Python.문자열압축" />
         <item itemvalue="Python.2606_바이러스" />
         <item itemvalue="Python.2206_벽부수고이동하기" />
-        <item itemvalue="Python.7576_토마토" />
       </list>
     </recent_temporary>
   </component>
@@ -205,22 +205,22 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="875" height="370" key="GridCell.Tab.0.bottom" timestamp="1611061064509">
+    <state width="898" height="329" key="GridCell.Tab.0.bottom" timestamp="1612427702122">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
-    <state width="875" height="370" key="GridCell.Tab.0.bottom/0.25.1792.1095@0.25.1792.1095" timestamp="1611061064509" />
-    <state width="875" height="370" key="GridCell.Tab.0.center" timestamp="1611061064509">
+    <state width="898" height="329" key="GridCell.Tab.0.bottom/0.25.1792.1095@0.25.1792.1095" timestamp="1612427702122" />
+    <state width="898" height="329" key="GridCell.Tab.0.center" timestamp="1612427702121">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
-    <state width="875" height="370" key="GridCell.Tab.0.center/0.25.1792.1095@0.25.1792.1095" timestamp="1611061064509" />
-    <state width="875" height="370" key="GridCell.Tab.0.left" timestamp="1611061064509">
+    <state width="898" height="329" key="GridCell.Tab.0.center/0.25.1792.1095@0.25.1792.1095" timestamp="1612427702121" />
+    <state width="898" height="329" key="GridCell.Tab.0.left" timestamp="1612427702121">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
-    <state width="875" height="370" key="GridCell.Tab.0.left/0.25.1792.1095@0.25.1792.1095" timestamp="1611061064509" />
-    <state width="875" height="370" key="GridCell.Tab.0.right" timestamp="1611061064509">
+    <state width="898" height="329" key="GridCell.Tab.0.left/0.25.1792.1095@0.25.1792.1095" timestamp="1612427702121" />
+    <state width="898" height="329" key="GridCell.Tab.0.right" timestamp="1612427702122">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
-    <state width="875" height="370" key="GridCell.Tab.0.right/0.25.1792.1095@0.25.1792.1095" timestamp="1611061064509" />
+    <state width="898" height="329" key="GridCell.Tab.0.right/0.25.1792.1095@0.25.1792.1095" timestamp="1612427702122" />
     <state width="875" height="370" key="GridCell.Tab.1.bottom" timestamp="1611061064510">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
