@@ -1,3 +1,4 @@
+'''
 import sys
 import collections
 N,M,V = map(int,sys.stdin.readline().split())
@@ -56,4 +57,57 @@ def bfs(v):
                     queue.append(neighbor)
     return printStr
 print(dfs(V)+"\n"+bfs(V))
+'''
+
+from collections import deque
+from sys import stdin
+
+n, m, v = map(int, stdin.readline().split())
+graph = [[] for _ in range(n + 1)]
+visited = [0 for _ in range(n+1)]
+
+for _ in range(m):
+    n1, n2 = map(int, stdin.readline().split())
+    if n2 not in graph[n1]:
+        graph[n1].append(n2)
+        graph[n2].append(n1)
+stack = deque()
+graph2 = graph[:]
+stack.append(v)
+
+while(stack):
+    now = stack.pop()
+
+    if visited[now] == 0:
+        print(now, end = " ")
+    if graph2[now] == []:
+        continue
+    visited[now] = 1
+    graph2[now].sort(reverse = True)
+    for neighbor in graph2[now]:
+        if visited[neighbor] == 0:
+            stack.append(neighbor)
+
+visited = [0 for _ in range(n+1)]
+
+queue = deque()
+queue.append(v)
+visited[v] = 1
+print()
+
+while(queue):
+    now = queue.popleft()
+    print(now, end = " ")
+    if graph[now] == []:
+        continue
+    graph[now].sort()
+    for neighbor in graph[now]:
+        if visited[neighbor] == 0:
+            queue.append(neighbor)
+            visited[neighbor] = 1
+
+
+
+
+
 
