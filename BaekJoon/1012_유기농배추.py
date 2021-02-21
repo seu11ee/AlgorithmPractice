@@ -23,12 +23,10 @@ def dfs(x,y):
 t = int(stdin.readline())
 for _ in range(t):
     m,n,k = map(int,stdin.readline().split())
-    field = [[0 for _ in range(m)] for _ in range(n)]
     visited = [[0 for _ in range(m)] for _ in range(n)]
     cabbage = deque()
     for _ in range(k):
         x,y = map(int, stdin.readline().split())
-        field[y][x] = 1
         cabbage.append((x,y))
 
     answer = 0
