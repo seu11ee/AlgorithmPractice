@@ -10,7 +10,6 @@ def dfs(x,y):
     stack.append((x,y))
     while(stack):
         x,y = stack.pop()
-        visited[y][x] = 1
         if (x,y) in cabbage:
             cabbage.remove((x, y))
         for i in range(4):
@@ -23,7 +22,6 @@ def dfs(x,y):
 t = int(stdin.readline())
 for _ in range(t):
     m,n,k = map(int,stdin.readline().split())
-    visited = [[0 for _ in range(m)] for _ in range(n)]
     cabbage = deque()
     for _ in range(k):
         x,y = map(int, stdin.readline().split())
