@@ -48,7 +48,7 @@ def bfs(v):
     while(queue):
         now = queue.popleft()
         if not visited[now]:
-            visited[now] = True
+            visited[now] = True2
             printStr += str(now) + " "
             if graph[now] != [-1]:
                 graph[now].sort()
@@ -60,7 +60,7 @@ print(dfs(V)+"\n"+bfs(V))
 '''
 
 from collections import deque
-from sys import stdin
+from sys import stdin 
 
 n, m, v = map(int, stdin.readline().split())
 graph = [[] for _ in range(n + 1)]
