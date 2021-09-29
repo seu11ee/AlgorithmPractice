@@ -131,8 +131,12 @@ fabric.properties
 .idea/$CACHE_FILE$
 .idea
 venv
+venvv
+test
 # CodeStream plugin
 # https://plugins.jetbrains.com/plugin/12206-codestream
 .idea/codestream.xml
 *.xml
 # End of https://www.toptal.com/developers/gitignore/api/macos,pycharm
+
+
